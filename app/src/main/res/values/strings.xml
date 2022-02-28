@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hwk2-Messages</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="userPlaceholder">email</string>
+    <string name="pwPlaceholder">Password</string>
+</resources>
